@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 
 
 ![0](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=dai147444612&show_icons=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dai147444612/count.svg" />
+</p>
