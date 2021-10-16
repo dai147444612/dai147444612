@@ -1,4 +1,4 @@
-### Welcome to my github  👋
+### Welcome to my github  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">  
 
 
 **dai147444612/dai147444612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
