@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 💬 Ask me about [XiaoCache](https://github.com/xiao-organization/xiaoCache)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dai147444612)](https://github.com/anuraghazra/github-readme-stats)
 
 ![0](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=dai147444612&show_icons=true)
 
